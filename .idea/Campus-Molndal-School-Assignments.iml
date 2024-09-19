@@ -6,7 +6,16 @@
       <sourceFolder url="file://$MODULE_DIR$/Object-Oriented-Programming-with-Java/1-Assignment-Temperature-Converter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Object-Oriented-Programming-with-Java/2-Assignment-Loops-and-Conditions/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Object-Oriented-Programming-with-Java/3-Assignment-ArrayList/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Object-Oriented-Programming-with-Java/4-Assignment-Hangman/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Object-Oriented-Programming-with-Java/5-Assignment-Vehicle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Object-Oriented-Programming-with-Java/6-Final-Group-Assignment-RPG/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Design-and-Architecture/1-Group-Assignment-Movie-Database/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Design-and-Architecture/2-Assignment-MongoDB-Facade-and-CRUD/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Design-and-Architecture/3-Final-Assignment-LOTR-Quiz/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Quality-Assurance-with-Java/1-Assignment-Bank-Test-Driven-Development/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Quality-Assurance-with-Java/1-Assignment-Bank-Test-Driven-Development/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Quality-Assurance-with-Java/2-Final-Assignment-Todo-List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Quality-Assurance-with-Java/2-Final-Assignment-Todo-List/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
