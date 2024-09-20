@@ -49,5 +49,5 @@
 * [Draft](Thesis-RPI-Emergency-Assistant/Papers/Johan_Romeo_Examensarbete_Draft.pdf)
 * [White Paper](Thesis-RPI-Emergency-Assistant/Papers/Johan_Romeo_Examensarbete_White_Paper.pdf)
 * [Tech Stack Documentation](Thesis-RPI-Emergency-Assistant/Papers/Examensarbete_Verktygspresentation_RPI_Emergancy_Assistent.pdf)
-* [Technical Documentation](Thesis-RPI-Emergency-Assistant/Papers/Examensarbete_Teknisk_Dokumentation_RPI Emergency_Assistant.pdf)
+* [Technical Documentation](Thesis-RPI-Emergency-Assistant/Papers/Examensarbete_Teknisk_Dokumentation_RPI_Emergency_Assistant.pdf)
 * [Sourcecode](Thesis-RPI-Emergency-Assistant/Python)
